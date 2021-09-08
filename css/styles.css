@@ -128,6 +128,9 @@ header {
 
 .projects .projects-content .card h3 {
     text-align: center;
+}
+
+.projects .projects-content .card h3 a {
     color: rgb(4, 235, 46);
 }
 
